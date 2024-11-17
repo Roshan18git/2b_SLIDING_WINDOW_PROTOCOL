@@ -1,6 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ### NAME: ROSHAN G
-### REG.NO:23014476
+### REG.NO:212223040176
 ## AIM
 To write a python program for Implementation of sliding Window Protocol.
 ## ALGORITHM:
